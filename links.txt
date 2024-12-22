@@ -1,0 +1,35 @@
+# Slack Deployment Bot
+
+## Setup Instructions
+
+### Slack API
+You can find the Slack API details [here](https://api.slack.com/apps/A07V6L26W1M/slash-commands?saved=1).
+
+### Ngrok Endpoints
+You can find the Ngrok endpoints [here](https://dashboard.ngrok.com/endpoints/ep_2ort8jMjnSUUgnZGTMIxYvln74d).
+
+### Steps to Run the Bot
+
+1. **Start Ngrok**
+  ```sh
+  ngrok http 4567
+  ```
+
+2. **Run Ruby Scripts**
+  - For greetings inside the deployment channel:
+    ```sh
+    ruby Welcome_bot.rb
+    ```
+  - For deployment:
+    ```sh
+    ruby bot_deploy_scheduler.rb
+    ```
+
+3. **Run Tests**
+  ```sh
+  rspec spec/
+  ```
+
+## Additional Information
+- Ensure you have all the necessary dependencies installed before running the scripts.
+- Refer to the Slack API and Ngrok documentation for more details on configuration and usage.

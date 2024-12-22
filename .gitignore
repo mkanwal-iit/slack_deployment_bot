@@ -1,0 +1,39 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore environment variable files
+.env
+
+# Ignore build directories
+dist/
+build/
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+# Ignore Ruby specific files
+*.gem
+*.rbc
+.ruby-version
+.ruby-gemset
+
+# Ignore bundler config
+/.bundle
+
+# Ignore installed gems
+/vendor/bundle
+
+# Ignore rdoc files
+/rdoc
+
+# Ignore coverage directory
+/coverage/
+
+# Ignore spec files
+/spec/reports/
+
+# Ignore byebug command history file
+.byebug_history
