@@ -126,9 +126,19 @@ git commit -m "Description of your changes"
 ```bash
 git push origin feature-branch
 ```
+## Screenshots
 
-5. Create a pull request.
+### System Diagram
 
-## License
+![Slackbot Implementation](https://github.com/mkanwal-iit/png)
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+### Radar Data Output
+
+![Slackbot SlashCommands](https://github.com/mkanwal-iit/png)
+
+### Pedestrian Detection
+
+![Slackbot Process](https://github.com/mkanwal-iit/.png)
+
+
+
