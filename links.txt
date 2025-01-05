@@ -6,7 +6,7 @@
 You can find the Slack API details [here](https://api.slack.com/apps/A07V6L26W1M/slash-commands?saved=1).
 
 ### Ngrok Endpoints
-You can find the Ngrok endpoints [here](https://dashboard.ngrok.com/endpoints/ep_2ort8jMjnSUUgnZGTMIxYvln74d).
+You can find the Ngrok endpoints [here](https://dashboard.ngrok.com/endpoints).
 
 ### Steps to Run the Bot
 
