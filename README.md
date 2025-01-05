@@ -128,17 +128,19 @@ git push origin feature-branch
 ```
 ## Screenshots
 
-### System Diagram
+### Welcome Bot
 
-![Slackbot Implementation](https://github.com/mkanwal-iit/png)
+![Slackbot Implementation](https://github.com/mkanwal-iit/slack_deployment_bot/blob/main/images/Screenshot%202025-01-04%20at%2011.11.36%E2%80%AFPM.png)
 
-### Radar Data Output
+### Slash Commands
 
-![Slackbot SlashCommands](https://github.com/mkanwal-iit/png)
+![Slackbot SlashCommands](https://github.com/mkanwal-iit/slack_deployment_bot/blob/main/images/Screenshot%202025-01-04%20at%2011.12.03%E2%80%AFPM.png)
 
-### Pedestrian Detection
+### Deployment Process
 
-![Slackbot Process](https://github.com/mkanwal-iit/.png)
+![Slackbot Process](https://github.com/mkanwal-iit/slack_deployment_bot/blob/main/images/Screenshot%202025-01-04%20at%2011.14.24%E2%80%AFPM.png)
+
+Other Pictures are inside the Images folder
 
 
 
